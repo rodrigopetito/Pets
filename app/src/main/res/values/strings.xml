@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="activity_main_toolbar_title">Pets</string>
+    <string name="base_url">http://petstore.swagger.io/v2/</string>
+</resources>
